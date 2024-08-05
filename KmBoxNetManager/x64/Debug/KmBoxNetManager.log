@@ -1,0 +1,5 @@
+﻿  KmBoxNetManager.cpp
+C:\Users\Kayy\Desktop\KmBoxNetManager-master\KmBoxNetManager\KmBoxConfig.h(212,9): warning C4005: 'KEY_EXECUTE': redefinición de macro
+C:\Users\Kayy\Desktop\KmBoxNetManager-master\KmBoxNetManager\KmBoxNetManager.cpp(28,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Kayy\Desktop\KmBoxNetManager-master\KmBoxNetManager\KmBoxNetManager.cpp(36,38): warning C4244: '=': conversión de '__int64' a 'unsigned int'; posible pérdida de datos
+  KmBoxNetManager.vcxproj -> C:\Users\Kayy\Desktop\KmBoxNetManager-master\x64\Debug\KmBoxNetManager.exe
